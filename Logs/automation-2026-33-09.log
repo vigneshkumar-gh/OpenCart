@@ -1,0 +1,54 @@
+14:39:57 [main]INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Seleniumprojects\OpenCart\groupingTest.xml
+
+14:40:00 [main]INFO  TestCases.TC001_AccRegisterTest - --------- Home Page is Opened -----------
+14:40:01 [main]INFO  TestCases.TC001_AccRegisterTest - --------- Account Register ---------------
+14:40:10 [main]INFO  TestCases.TC001_AccRegisterTest - ------Account Logout is Successful----------
+14:40:10 [main]INFO  TestCases.TC001_AccRegisterTest - -----------> FinishedTest Case : Account Registration 
+14:40:12 [main]INFO  TestCases.TC002_LoginTest - ------------ Begin of Login Test
+14:40:12 [main]INFO  TestCases.TC002_LoginTest - Home Page is Displayed
+14:40:12 [main]INFO  TestCases.TC002_LoginTest - Navigated to Login Page
+14:40:12 [main]INFO  TestCases.TC002_LoginTest - After Login Success, Navigates to Account Page
+14:40:16 [main]INFO  TestCases.TC002_LoginTest - ----------- Account Login is Successful and My Account is Displayed
+14:40:16 [main]INFO  TestCases.TC002_LoginTest - ----------- Test Execution is Completed
+14:43:27 [main]DEBUG org.testng.TestNG - suiteXmlPath: "D:\Seleniumprojects\OpenCart\groupingTest.xml"
+14:43:27 [main]INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Seleniumprojects\OpenCart\groupingTest.xml
+
+14:43:30 [main]INFO  TestCases.TC001_AccRegisterTest - --------- Home Page is Opened -----------
+14:43:31 [main]INFO  TestCases.TC001_AccRegisterTest - --------- Account Register ---------------
+14:43:34 [main]INFO  TestCases.TC001_AccRegisterTest - ------Account Logout is Successful----------
+14:43:34 [main]INFO  TestCases.TC001_AccRegisterTest - -----------> FinishedTest Case : Account Registration 
+14:43:35 [main]INFO  TestCases.TC002_LoginTest - ------------ Begin of Login Test
+14:43:35 [main]INFO  TestCases.TC002_LoginTest - Home Page is Displayed
+14:43:36 [main]INFO  TestCases.TC002_LoginTest - Navigated to Login Page
+14:43:36 [main]INFO  TestCases.TC002_LoginTest - After Login Success, Navigates to Account Page
+14:43:37 [main]INFO  TestCases.TC002_LoginTest - ----------- Account Login is Successful and My Account is Displayed
+14:43:37 [main]INFO  TestCases.TC002_LoginTest - ----------- Test Execution is Completed
+14:45:04 [main]DEBUG org.testng.TestNG - suiteXmlPath: "D:\Seleniumprojects\OpenCart\groupingTest.xml"
+14:45:05 [main]INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Seleniumprojects\OpenCart\groupingTest.xml
+
+14:45:08 [main]INFO  TestCases.TC001_AccRegisterTest - --------- Home Page is Opened -----------
+14:45:08 [main]INFO  TestCases.TC001_AccRegisterTest - --------- Account Register ---------------
+14:45:11 [main]INFO  TestCases.TC001_AccRegisterTest - ------Account Logout is Successful----------
+14:45:11 [main]INFO  TestCases.TC001_AccRegisterTest - -----------> FinishedTest Case : Account Registration 
+14:45:13 [main]INFO  TestCases.TC002_LoginTest - ------------ Begin of Login Test
+14:45:13 [main]INFO  TestCases.TC002_LoginTest - Home Page is Displayed
+14:45:13 [main]INFO  TestCases.TC002_LoginTest - Navigated to Login Page
+14:45:14 [main]INFO  TestCases.TC002_LoginTest - After Login Success, Navigates to Account Page
+14:45:24 [main]ERROR TestCases.TC002_LoginTest - Test Failed!
+14:45:24 [main]DEBUG TestCases.TC002_LoginTest - Debug Login Test for Error Detection
+16:33:53 [main]DEBUG org.testng.TestNG - suiteXmlPath: "D:\Seleniumprojects\OpenCart\master.xml"
+16:33:57 [main]DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+16:33:57 [main]DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+16:33:57 [main]DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+16:33:59 [main]DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+16:33:59 [main]DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+16:33:59 [main]DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+16:33:59 [main]DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+16:33:59 [main]DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+16:33:59 [main]DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+16:33:59 [main]DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+16:33:59 [main]DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+16:33:59 [main]DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels

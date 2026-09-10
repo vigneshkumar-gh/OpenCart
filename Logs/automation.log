@@ -1,0 +1,22 @@
+16:34:00 [main]DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+16:34:00 [main]DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+16:34:00 [main]DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+16:34:00 [main]DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+16:34:00 [main]DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+16:34:00 [main]DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+16:34:00 [main]DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+16:34:00 [main]DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+16:34:00 [main]DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+16:34:00 [main]INFO  TestCases.TC002_01_LoginTestDDT - ------------ Data Driven Login Test is Started 
+16:34:02 [main]INFO  TestCases.TC002_01_LoginTestDDT - ----------------- Test Execution Completed
+16:34:02 [main]INFO  TestCases.TC002_01_LoginTestDDT - ------------ Data Driven Login Test is Started 
+16:34:14 [main]INFO  TestCases.TC002_01_LoginTestDDT - ----------------- Test Execution Completed
+16:34:14 [main]INFO  TestCases.TC002_01_LoginTestDDT - ------------ Data Driven Login Test is Started 
+16:34:18 [main]INFO  TestCases.TC002_01_LoginTestDDT - ----------------- Test Execution Completed
+16:34:18 [main]INFO  TestCases.TC002_01_LoginTestDDT - ------------ Data Driven Login Test is Started 
+16:35:13 [main]DEBUG org.testng.TestNG - suiteXmlPath: "D:\Seleniumprojects\OpenCart\master.xml"
+16:35:17 [main]INFO  TestCases.TC001_AccRegisterTest - --------- Home Page is Opened -----------
+16:35:17 [main]INFO  TestCases.TC001_AccRegisterTest - --------- Account Register ---------------
+16:35:23 [main]INFO  TestCases.TC001_AccRegisterTest - ------Account Logout is Successful----------
+16:35:23 [main]INFO  TestCases.TC001_AccRegisterTest - -----------> FinishedTest Case : Account Registration 
+17:18:38 [main]DEBUG org.testng.TestNG - suiteXmlPath: "D:\Seleniumprojects\OpenCart\master.xml"

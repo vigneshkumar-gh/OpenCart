@@ -1,0 +1,52 @@
+21:48:24 [main]DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\VK\AppData\Local\Temp\testng-eclipse-1168330178\testng-customsuite.xml"
+21:48:24 [main]INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+21:48:24 [main]INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+21:48:24 [main]INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+21:48:24 [main]INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+21:48:24 [main]INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+21:48:24 [main]INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+21:48:24 [main]INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+21:48:24 [main]INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+21:48:24 [main]INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 9 ms.
+21:48:24 [main]INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 10 ms.
+21:48:24 [main]INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+21:48:24 [main]INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+21:48:24 [main]INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+21:48:24 [main]INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+21:48:24 [main]INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+21:48:24 [main]INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+21:48:24 [main]INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+21:48:24 [main]INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+21:48:24 [main]INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+21:48:24 [main]INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+21:48:24 [main]INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+21:48:24 [main]INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+21:48:24 [main]INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+21:48:24 [main]INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+21:48:24 [main]INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+21:48:24 [main]INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+21:48:24 [main]INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+21:48:24 [main]INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+21:48:24 [main]INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+21:48:24 [main]INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+21:48:24 [main]INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\VK\AppData\Local\Temp\testng-eclipse-1168330178\testng-customsuite.xml
+
+21:48:25 [main]INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 4 ms.
+21:48:25 [main]INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@18cebaa5: 77 ms
+21:48:25 [main]INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@7c541c15: 18 ms
+21:48:25 [main]INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@5d2a4eed: 16 ms
+21:48:25 [main]INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@6f0b0a5e: 10 ms
+21:48:25 [main]INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@2974f221: 9 ms
+21:48:25 [main]INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@58fe0499: 0 ms
+21:48:46 [main]DEBUG org.testng.TestNG - suiteXmlPath: "D:\Seleniumprojects\OpenCart\groupingTest.xml"
+21:48:46 [main]INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Seleniumprojects\OpenCart\groupingTest.xml
+
+21:50:05 [main]DEBUG org.testng.TestNG - suiteXmlPath: "D:\Seleniumprojects\OpenCart\groupingTest.xml"
+21:50:05 [main]INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Seleniumprojects\OpenCart\groupingTest.xml
+
+21:50:08 [main]INFO  TestCases.TC002_LoginTest - ------------ Begin of Login Test
+21:50:08 [main]INFO  TestCases.TC002_LoginTest - Home Page is Displayed
+21:50:08 [main]INFO  TestCases.TC002_LoginTest - Navigated to Login Page

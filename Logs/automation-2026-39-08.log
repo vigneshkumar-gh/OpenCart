@@ -1,0 +1,60 @@
+21:50:09 [main]INFO  TestCases.TC002_LoginTest - After Login Success, Navigates to Account Page
+21:50:11 [main]INFO  TestCases.TC002_LoginTest - ----------- Account Login is Successful and My Account is Displayed
+21:50:11 [main]INFO  TestCases.TC002_LoginTest - ----------- Test Execution is Completed
+14:31:00 [main]DEBUG org.testng.TestNG - suiteXmlPath: "D:\Seleniumprojects\OpenCart\groupingTest.xml"
+14:31:01 [main]INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Seleniumprojects\OpenCart\groupingTest.xml
+
+14:31:04 [main]INFO  TestCases.TC001_AccRegisterTest - --------- Home Page is Opened -----------
+14:31:04 [main]INFO  TestCases.TC001_AccRegisterTest - --------- Account Register ---------------
+14:31:07 [main]INFO  TestCases.TC001_AccRegisterTest - ------Account Logout is Successful----------
+14:31:07 [main]INFO  TestCases.TC001_AccRegisterTest - -----------> FinishedTest Case : Account Registration 
+14:31:09 [main]INFO  TestCases.TC002_LoginTest - ------------ Begin of Login Test
+14:31:09 [main]INFO  TestCases.TC002_LoginTest - Home Page is Displayed
+14:31:09 [main]INFO  TestCases.TC002_LoginTest - Navigated to Login Page
+14:31:09 [main]INFO  TestCases.TC002_LoginTest - After Login Success, Navigates to Account Page
+14:31:11 [main]INFO  TestCases.TC002_LoginTest - ----------- Account Login is Successful and My Account is Displayed
+14:31:11 [main]INFO  TestCases.TC002_LoginTest - ----------- Test Execution is Completed
+14:32:28 [main]DEBUG org.testng.TestNG - suiteXmlPath: "D:\Seleniumprojects\OpenCart\groupingTest.xml"
+14:32:28 [main]INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Seleniumprojects\OpenCart\groupingTest.xml
+
+14:32:31 [main]INFO  TestCases.TC001_AccRegisterTest - --------- Home Page is Opened -----------
+14:32:31 [main]INFO  TestCases.TC001_AccRegisterTest - --------- Account Register ---------------
+14:32:34 [main]INFO  TestCases.TC001_AccRegisterTest - ------Account Logout is Successful----------
+14:32:34 [main]INFO  TestCases.TC001_AccRegisterTest - -----------> FinishedTest Case : Account Registration 
+14:32:36 [main]INFO  TestCases.TC002_LoginTest - ------------ Begin of Login Test
+14:32:36 [main]INFO  TestCases.TC002_LoginTest - Home Page is Displayed
+14:32:36 [main]INFO  TestCases.TC002_LoginTest - Navigated to Login Page
+14:32:36 [main]INFO  TestCases.TC002_LoginTest - After Login Success, Navigates to Account Page
+14:32:37 [main]INFO  TestCases.TC002_LoginTest - ----------- Account Login is Successful and My Account is Displayed
+14:32:37 [main]INFO  TestCases.TC002_LoginTest - ----------- Test Execution is Completed
+14:35:45 [main]DEBUG org.testng.TestNG - suiteXmlPath: "D:\Seleniumprojects\OpenCart\groupingTest.xml"
+14:35:45 [main]INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Seleniumprojects\OpenCart\groupingTest.xml
+
+14:35:48 [main]INFO  TestCases.TC001_AccRegisterTest - --------- Home Page is Opened -----------
+14:35:48 [main]INFO  TestCases.TC001_AccRegisterTest - --------- Account Register ---------------
+14:35:51 [main]INFO  TestCases.TC001_AccRegisterTest - ------Account Logout is Successful----------
+14:35:51 [main]INFO  TestCases.TC001_AccRegisterTest - -----------> FinishedTest Case : Account Registration 
+14:35:53 [main]INFO  TestCases.TC002_LoginTest - ------------ Begin of Login Test
+14:35:53 [main]INFO  TestCases.TC002_LoginTest - Home Page is Displayed
+14:35:53 [main]INFO  TestCases.TC002_LoginTest - Navigated to Login Page
+14:35:53 [main]INFO  TestCases.TC002_LoginTest - After Login Success, Navigates to Account Page
+14:35:54 [main]INFO  TestCases.TC002_LoginTest - ----------- Account Login is Successful and My Account is Displayed
+14:35:54 [main]INFO  TestCases.TC002_LoginTest - ----------- Test Execution is Completed
+14:38:57 [main]DEBUG org.testng.TestNG - suiteXmlPath: "D:\Seleniumprojects\OpenCart\groupingTest.xml"
+14:38:58 [main]INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Seleniumprojects\OpenCart\groupingTest.xml
+
+14:39:00 [main]INFO  TestCases.TC001_AccRegisterTest - --------- Home Page is Opened -----------
+14:39:01 [main]INFO  TestCases.TC001_AccRegisterTest - --------- Account Register ---------------
+14:39:09 [main]INFO  TestCases.TC001_AccRegisterTest - ------Account Logout is Successful----------
+14:39:09 [main]INFO  TestCases.TC001_AccRegisterTest - -----------> FinishedTest Case : Account Registration 
+14:39:11 [main]INFO  TestCases.TC002_LoginTest - ------------ Begin of Login Test
+14:39:11 [main]INFO  TestCases.TC002_LoginTest - Home Page is Displayed
+14:39:11 [main]INFO  TestCases.TC002_LoginTest - Navigated to Login Page
+14:39:13 [main]INFO  TestCases.TC002_LoginTest - After Login Success, Navigates to Account Page
+14:39:13 [main]INFO  TestCases.TC002_LoginTest - ----------- Account Login is Successful and My Account is Displayed
+14:39:13 [main]INFO  TestCases.TC002_LoginTest - ----------- Test Execution is Completed
+14:39:57 [main]DEBUG org.testng.TestNG - suiteXmlPath: "D:\Seleniumprojects\OpenCart\groupingTest.xml"
