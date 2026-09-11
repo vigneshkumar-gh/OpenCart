@@ -2,7 +2,11 @@
 <testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
+<<<<<<< HEAD
   <suite started-at="2026-09-10T21:46:34 IST" name="Master Suite" finished-at="2026-09-10T21:46:46 IST" duration-ms="12063">
+=======
+  <suite started-at="2026-09-10T21:28:34 IST" name="Master Suite" finished-at="2026-09-10T21:28:45 IST" duration-ms="11361">
+>>>>>>> b5d1a2d (Updated and Added few more Test Cases)
     <groups>
       <group name="Master">
         <method signature="TC001_AccRegisterTest.AccRegTestMethod()[pri:0, instance:TestCases.TC001_AccRegisterTest@6bf08014]" name="AccRegTestMethod" class="TestCases.TC001_AccRegisterTest"/>
@@ -15,9 +19,15 @@
         <method signature="TC002_LoginTest.LoginTestMethod()[pri:0, instance:TestCases.TC002_LoginTest@5a5338df]" name="LoginTestMethod" class="TestCases.TC002_LoginTest"/>
       </group> <!-- Regression -->
     </groups>
+<<<<<<< HEAD
     <test started-at="2026-09-10T21:46:34 IST" name="Test" finished-at="2026-09-10T21:46:46 IST" duration-ms="12063">
       <class name="TestCases.TC001_AccRegisterTest">
         <test-method is-config="true" signature="setupDriver(java.lang.String,java.lang.String)[pri:0, instance:TestCases.TC001_AccRegisterTest@6bf08014]" started-at="2026-09-10T21:46:34 IST" name="setupDriver" finished-at="2026-09-10T21:46:38 IST" duration-ms="4173" status="PASS">
+=======
+    <test started-at="2026-09-10T21:28:34 IST" name="Test" finished-at="2026-09-10T21:28:45 IST" duration-ms="11361">
+      <class name="TestCases.TC001_AccRegisterTest">
+        <test-method is-config="true" signature="setupDriver(java.lang.String,java.lang.String)[pri:0, instance:TestCases.TC001_AccRegisterTest@6bf08014]" started-at="2026-09-10T21:28:34 IST" name="setupDriver" finished-at="2026-09-10T21:28:37 IST" duration-ms="3252" status="PASS">
+>>>>>>> b5d1a2d (Updated and Added few more Test Cases)
           <params>
             <param index="0">
               <value>
@@ -33,17 +43,29 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setupDriver -->
+<<<<<<< HEAD
         <test-method signature="AccRegTestMethod()[pri:0, instance:TestCases.TC001_AccRegisterTest@6bf08014]" started-at="2026-09-10T21:46:38 IST" name="AccRegTestMethod" finished-at="2026-09-10T21:46:42 IST" duration-ms="3697" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- AccRegTestMethod -->
         <test-method is-config="true" signature="exitDriver()[pri:0, instance:TestCases.TC001_AccRegisterTest@6bf08014]" started-at="2026-09-10T21:46:42 IST" name="exitDriver" finished-at="2026-09-10T21:46:42 IST" duration-ms="276" status="PASS">
+=======
+        <test-method signature="AccRegTestMethod()[pri:0, instance:TestCases.TC001_AccRegisterTest@6bf08014]" started-at="2026-09-10T21:28:37 IST" name="AccRegTestMethod" finished-at="2026-09-10T21:28:41 IST" duration-ms="3718" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AccRegTestMethod -->
+        <test-method is-config="true" signature="exitDriver()[pri:0, instance:TestCases.TC001_AccRegisterTest@6bf08014]" started-at="2026-09-10T21:28:41 IST" name="exitDriver" finished-at="2026-09-10T21:28:41 IST" duration-ms="250" status="PASS">
+>>>>>>> b5d1a2d (Updated and Added few more Test Cases)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- exitDriver -->
       </class> <!-- TestCases.TC001_AccRegisterTest -->
       <class name="TestCases.TC002_LoginTest">
+<<<<<<< HEAD
         <test-method is-config="true" signature="setupDriver(java.lang.String,java.lang.String)[pri:0, instance:TestCases.TC002_LoginTest@5a5338df]" started-at="2026-09-10T21:46:42 IST" name="setupDriver" finished-at="2026-09-10T21:46:44 IST" duration-ms="1820" status="PASS">
+=======
+        <test-method is-config="true" signature="setupDriver(java.lang.String,java.lang.String)[pri:0, instance:TestCases.TC002_LoginTest@5a5338df]" started-at="2026-09-10T21:28:41 IST" name="setupDriver" finished-at="2026-09-10T21:28:43 IST" duration-ms="1970" status="PASS">
+>>>>>>> b5d1a2d (Updated and Added few more Test Cases)
           <params>
             <param index="0">
               <value>
@@ -59,11 +81,19 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setupDriver -->
+<<<<<<< HEAD
         <test-method signature="LoginTestMethod()[pri:0, instance:TestCases.TC002_LoginTest@5a5338df]" started-at="2026-09-10T21:46:44 IST" name="LoginTestMethod" finished-at="2026-09-10T21:46:46 IST" duration-ms="1445" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- LoginTestMethod -->
         <test-method is-config="true" signature="exitDriver()[pri:0, instance:TestCases.TC002_LoginTest@5a5338df]" started-at="2026-09-10T21:46:46 IST" name="exitDriver" finished-at="2026-09-10T21:46:46 IST" duration-ms="227" status="PASS">
+=======
+        <test-method signature="LoginTestMethod()[pri:0, instance:TestCases.TC002_LoginTest@5a5338df]" started-at="2026-09-10T21:28:43 IST" name="LoginTestMethod" finished-at="2026-09-10T21:28:45 IST" duration-ms="1526" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginTestMethod -->
+        <test-method is-config="true" signature="exitDriver()[pri:0, instance:TestCases.TC002_LoginTest@5a5338df]" started-at="2026-09-10T21:28:45 IST" name="exitDriver" finished-at="2026-09-10T21:28:45 IST" duration-ms="217" status="PASS">
+>>>>>>> b5d1a2d (Updated and Added few more Test Cases)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- exitDriver -->

@@ -1,9 +1,8 @@
 package TestCases;
 
 import org.testng.Assert;
-import org.testng.annotations.Test;
 
-import com.beust.jcommander.Parameter;
+import org.testng.annotations.Test;
 
 import baseTest.BaseClass;
 import pageObjects.HomePage;

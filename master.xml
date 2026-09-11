@@ -9,9 +9,12 @@
   <parameter name = "os" value = "Windows"/>
   <parameter name="browser" value="chrome"/>
     <classes>
-     	<class name="TestCases.TC001_AccRegisterTest"/>
+     <!--	<class name="TestCases.TC001_AccRegisterTest"/>
       	<class name ="TestCases.TC002_LoginTest"/>
-    <!--	<class name = "TestCases.TC002_01_LoginTestDDT"/> -->
+    	<class name = "TestCases.TC002_01_LoginTestDDT"/> 
+    	<class name = "TestCases.TC003_SearchProductTest"/>
+    	<class name = "TestCases.TC004_AddToCartTest"/>-->
+    	<class name="TestCases.TC005_CheckOutProductTest"/>
     </classes>
     
   </test> <!-- Test -->

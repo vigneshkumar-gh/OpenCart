@@ -32,7 +32,7 @@ public class TC001_AccRegisterTest extends BaseClass{
 		registerpage.newsletBut();
 		registerpage.policyButton();
 		registerpage.clickButton();
-		String msgReceived = registerpage.accCreConfirmMsg();
+		//String msgReceived = registerpage.accCreConfirmMsg();
 		registerpage.clickContinue();
 		registerpage.clickLogOut();
 		String logoutMsg = registerpage.accountLogOutConfMsg();
