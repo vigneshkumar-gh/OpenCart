@@ -20,3 +20,27 @@
 16:35:23 [main]INFO  TestCases.TC001_AccRegisterTest - ------Account Logout is Successful----------
 16:35:23 [main]INFO  TestCases.TC001_AccRegisterTest - -----------> FinishedTest Case : Account Registration 
 17:18:38 [main]DEBUG org.testng.TestNG - suiteXmlPath: "D:\Seleniumprojects\OpenCart\master.xml"
+21:24:08 [main]DEBUG org.testng.TestNG - suiteXmlPath: "D:\Seleniumprojects\OpenCart\master.xml"
+21:24:34 [main]DEBUG org.testng.TestNG - suiteXmlPath: "D:\Seleniumprojects\OpenCart\master.xml"
+21:28:33 [main]DEBUG org.testng.TestNG - suiteXmlPath: "D:\Seleniumprojects\OpenCart\master.xml"
+21:28:37 [main]INFO  TestCases.TC001_AccRegisterTest - --------- Home Page is Opened -----------
+21:28:38 [main]INFO  TestCases.TC001_AccRegisterTest - --------- Account Register ---------------
+21:28:41 [main]INFO  TestCases.TC001_AccRegisterTest - ------Account Logout is Successful----------
+21:28:41 [main]INFO  TestCases.TC001_AccRegisterTest - -----------> FinishedTest Case : Account Registration 
+21:28:43 [main]INFO  TestCases.TC002_LoginTest - ------------ Begin of Login Test
+21:28:43 [main]INFO  TestCases.TC002_LoginTest - Home Page is Displayed
+21:28:43 [main]INFO  TestCases.TC002_LoginTest - Navigated to Login Page
+21:28:44 [main]INFO  TestCases.TC002_LoginTest - After Login Success, Navigates to Account Page
+21:28:45 [main]INFO  TestCases.TC002_LoginTest - ----------- Account Login is Successful and My Account is Displayed
+21:28:45 [main]INFO  TestCases.TC002_LoginTest - ----------- Test Execution is Completed
+21:46:33 [main]DEBUG org.testng.TestNG - suiteXmlPath: "C:\Seleniumprojects\OpenCart\master.xml"
+21:46:38 [main]INFO  TestCases.TC001_AccRegisterTest - --------- Home Page is Opened -----------
+21:46:39 [main]INFO  TestCases.TC001_AccRegisterTest - --------- Account Register ---------------
+21:46:42 [main]INFO  TestCases.TC001_AccRegisterTest - ------Account Logout is Successful----------
+21:46:42 [main]INFO  TestCases.TC001_AccRegisterTest - -----------> FinishedTest Case : Account Registration 
+21:46:44 [main]INFO  TestCases.TC002_LoginTest - ------------ Begin of Login Test
+21:46:44 [main]INFO  TestCases.TC002_LoginTest - Home Page is Displayed
+21:46:44 [main]INFO  TestCases.TC002_LoginTest - Navigated to Login Page
+21:46:44 [main]INFO  TestCases.TC002_LoginTest - After Login Success, Navigates to Account Page
+21:46:46 [main]INFO  TestCases.TC002_LoginTest - ----------- Account Login is Successful and My Account is Displayed
+21:46:46 [main]INFO  TestCases.TC002_LoginTest - ----------- Test Execution is Completed

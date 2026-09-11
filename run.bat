@@ -1,2 +1,2 @@
-cd C:\Seleniumprojects\OpenCart
+cd D:\Seleniumprojects\OpenCart
 mvn test
