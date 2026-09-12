@@ -29,7 +29,7 @@ public class TC004_AddToCartTest extends BaseClass{
 		sp.clickSearchBtn();
 		
 		ProductPage product = new ProductPage(driver);
-		product.clickProduct();
+		product.clickProductDetails("HP LP3065");
 		//product.setQuantity("1");
 		Thread.sleep(3000);
 		product.clickAddtoCart();

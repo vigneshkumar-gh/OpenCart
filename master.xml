@@ -9,12 +9,15 @@
   <parameter name = "os" value = "Windows"/>
   <parameter name="browser" value="chrome"/>
     <classes>
-     <!--	<class name="TestCases.TC001_AccRegisterTest"/>
-      	<class name ="TestCases.TC002_LoginTest"/>
-    	<class name = "TestCases.TC002_01_LoginTestDDT"/> 
-    	<class name = "TestCases.TC003_SearchProductTest"/>
-    	<class name = "TestCases.TC004_AddToCartTest"/>-->
-    	<class name="TestCases.TC005_CheckOutProductTest"/>
+       <!-- <class name="TestCases.TC001_AccRegisterTest"/>
+      	<class name ="TestCases.TC002_LoginTest"/>-->
+    <!--	<class name = "TestCases.TC002_01_LoginTestDDT"/> -->
+    <!--	<class name = "TestCases.TC003_SearchProductTest"/>-->
+    <!--	<class name = "TestCases.TC004_AddToCartTest"/>
+	   	<class name="TestCases.EndToEndTesting"/>-->
+	<!--   	<class name="TestCases.TC005_AddtoCartDDT"/>-->
+	<!--	<class name="TestCases.TC006_DeleteCartTest"></class>-->
+		<class name="TestCases.TC007_ModifyProductQuantity"></class>
     </classes>
     
   </test> <!-- Test -->

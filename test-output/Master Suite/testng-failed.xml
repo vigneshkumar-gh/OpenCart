@@ -8,13 +8,13 @@
     <parameter name="os" value="Windows"/>
     <parameter name="browser" value="chrome"/>
     <classes>
-      <class name="TestCases.TC005_CheckOutProductTest">
+      <class name="TestCases.TC007_ModifyProductQuantity">
         <methods>
-          <include name="OrderProduct"/>
+          <include name="updateQuantity"/>
           <include name="setupDriver"/>
           <include name="exitDriver"/>
         </methods>
-      </class> <!-- TestCases.TC005_CheckOutProductTest -->
+      </class> <!-- TestCases.TC007_ModifyProductQuantity -->
     </classes>
   </test> <!-- Test(failed) -->
 </suite> <!-- Failed suite [Master Suite] -->

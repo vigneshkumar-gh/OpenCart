@@ -1,6 +1,7 @@
 package Utilities;
 
 import java.io.File;
+
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
 import java.io.FileOutputStream;
@@ -29,6 +30,8 @@ public class ExcelUtility {
 		workbook= new XSSFWorkbook(fi);
 		sheet = workbook.getSheet(sheetName);
 		int rows = sheet.getLastRowNum();
+		System.out.println("Row number: " + rows);
+
 		workbook.close();
 		fi.close();
 		return rows;
@@ -40,6 +43,8 @@ public class ExcelUtility {
 		sheet = workbook.getSheet(sheetName);
 		row = sheet.getRow(rowNum);
 		int cells = row.getLastCellNum();
+		System.out.println("column number: " + cells);
+
 		workbook.close();
 		fi.close();
 		return cells;
@@ -62,6 +67,7 @@ public class ExcelUtility {
 		workbook= new XSSFWorkbook(fi);
 		sheet = workbook.getSheet(sheetName);
 		row = sheet.getRow(rowNum);
+		
 		cell = row.getCell(columnNum);
 		String data;
 		try {
@@ -70,6 +76,9 @@ public class ExcelUtility {
 		catch(Exception e) {
 			data = "";
 		}
+		
+		workbook.close();
+		fi.close();
 		return data;
 	}
 	

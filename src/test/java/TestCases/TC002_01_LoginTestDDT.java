@@ -32,6 +32,7 @@ public class TC002_01_LoginTestDDT extends BaseClass{
 			if(result.equalsIgnoreCase("valid")) {
 				if(accountPage == true) {
 					Assert.assertTrue(true);
+					myaccount.clickMyAccount();
 					myaccount.clickLogOutButton();
 				}
 				else {
@@ -41,6 +42,7 @@ public class TC002_01_LoginTestDDT extends BaseClass{
 
 			if(result.equalsIgnoreCase("invalid")) {
 					if(accountPage == true ) {
+						myaccount.clickMyAccount();
 						myaccount.clickLogOutButton();
 						Assert.assertTrue(false);
 					}
